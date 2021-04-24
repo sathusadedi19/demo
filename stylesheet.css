@@ -4,11 +4,11 @@
   body {
     margin: 0;
     font-family: "Times New Roman";
-   
+  
   }  
   .header{
     color:#fff;
-    background-color:#9b359b;
+    background-color:#272227;
     height:90px;
   }
   .header-logo{
@@ -42,12 +42,14 @@
   .image{
       float:right;
       margin-right: 200px;
-      width:200px;
-      height:200px;
+      width:20%;
+      height:20%;
+      sh
   }
   .btn-wrapper {
     text-align: left;
     float:left;
+
   }
   .btn-wrapper p {
     margin: 10px 30px;
@@ -63,7 +65,7 @@
     opacity: 1;
   }
   .about {
-    background-color: #239b76;
+    background-color: #8d8f8e;
   }
   .contents{
     padding-top: 30px;
@@ -75,10 +77,10 @@
  .item p{
       float:left;
       font-weight: bold;
-      color:#9b359b;
+      color:#272227;
   }
   .footer {
-    background-color: #9b359b;
+    background-color:#272227;
     color: #fff;
     height: 150px;
     padding-top: 20px;
